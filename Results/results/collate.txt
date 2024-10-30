@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=D:\Задания Controller\P5\Controller\P5.lrs
+Completed=0
